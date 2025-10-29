@@ -1,0 +1,7 @@
+# YOLOv11 Dataset Configuration for Tailgating Detection
+
+train: /content/drive/MyDrive/Office_tailgating/dataset/train/images
+val: /content/drive/MyDrive/Office_tailgating/dataset/val/images
+
+nc: 1
+names: ["person"]
